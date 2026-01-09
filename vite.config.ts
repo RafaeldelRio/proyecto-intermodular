@@ -6,7 +6,7 @@ export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, (process as any).cwd(), '');
   return {
     plugins: [react()],
-    base: './', // Ensures assets are loaded correctly on GitHub Pages paths
+    base: '/proyecto-intermodular/', // Ruta base correcta para GitHub Pages
     define: {
       // Polyfill process.env.API_KEY for the client build
       'process.env.API_KEY': JSON.stringify(env.API_KEY || process.env.API_KEY)
