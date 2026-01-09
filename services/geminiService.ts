@@ -130,7 +130,12 @@ export async function generateNarration(text: string): Promise<AudioBuffer> {
     // Initialize AudioContext only when needed (user interaction usually required before this, but here we prepare it)
     const audioContext = new (window.AudioContext || (window as any).webkitAudioContext)({ sampleRate: 24000 });
     
-    return await decodeAudioData(base64Audio, audioContext, 24000, 1);
+    const buffer = await decodeAudioData(base64Audio, audioContext, 24000, 1);
+    
+    // Close context to prevent leaking resources (browser limit is typically 6)
+    await audioContext.close();
+
+    return buffer;
   } catch (error) {
     console.error("Error generating speech:", error);
     throw new Error("Failed to generate narration.");
