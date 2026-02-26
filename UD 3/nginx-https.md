@@ -72,7 +72,7 @@ Desde esa sección añadimos un nuevo registro con el nombre de subdominio que q
 ---
 # Paso 0: Generación de un subdominio
 
-![dominio](dominio.png)
+![dominio](images/dominio.png)
 
 ---
 
