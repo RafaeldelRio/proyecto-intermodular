@@ -10,9 +10,27 @@ f) Se ha definido y elaborado la documentación necesaria para la evaluación de
 
 # Primera entrega
 
-Spot publicitario con powtoon:
+Spot publicitario con 3 :
 - Para inversores
 - Para clientes
+
+Canva video maker: dentro de las plantillas, buscad la que tenga vídeo
+Google vids: https://workspace.google.com/intl/es/products/vids/
+animaker: https://www.animaker.es/
+Adobe express: https://www.adobe.com/es/express/
+
+O podéis usar cualquier otra aplicación que os guste. Lo importante es que quede bien.
+
+
+# Segunda entrega entrega
+
+- Mejorar aplicación
 - Para personas que trabajan con la aplicación (brisboxer)
 
-Terminar aplicación
+
+# Tercera entrega
+- Hacer una demo (grabando la pantalla) de la aplicación
+- Mejorar los tres vídeos publicitarios:
+    - El de inversores
+    - El de clientes
+    - El que busca a otras personas para el proyecto
