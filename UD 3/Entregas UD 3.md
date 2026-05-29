@@ -52,3 +52,5 @@ i) Se ha elaborado la documentación necesaria.
 - 2 tipos de usuarios distintos
 - 2 idiomas en la aplicación: español e inglés
 - Modo oscuro y modo claro
+- Enviar emails cuando se registra un usuario (obligatorio)
+- Se pueda subir foto para perfil de usuario
