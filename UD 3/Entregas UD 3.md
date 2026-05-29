@@ -23,7 +23,7 @@ i) Se ha elaborado la documentación necesaria.
 		- Roadmap
 		- My items
 -  Repositorio en github
-	- Debe ser privado
+	- Debe ser público
 	- Debéis añadir a todos los miembros + a mí
 - Para desarrollar el código
 	- https://aistudio.google.com/apps
@@ -54,3 +54,4 @@ i) Se ha elaborado la documentación necesaria.
 - Modo oscuro y modo claro
 - Enviar emails cuando se registra un usuario (obligatorio)
 - Se pueda subir foto para perfil de usuario
+- Responsive: se debe ver bien en PC y en móvil

@@ -30,7 +30,10 @@ O podéis usar cualquier otra aplicación que os guste. Lo importante es que que
 
 # Tercera entrega
 - Hacer una demo (grabando la pantalla) de la aplicación
+    - La demo se puede dividir en varios pequeños vídeos de distintos casos de uso, 
+        e insertarlos en las diapositivas de Canva.
 - Mejorar los tres vídeos publicitarios:
     - El de inversores
     - El de clientes
     - El que busca a otras personas para el proyecto
+- OPCIONAL: Generar un apk y subirlo a la play store.
